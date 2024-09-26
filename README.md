@@ -13,33 +13,28 @@ We recomend that you do the activity using the git bash (the command line) in yo
 
 Here is just a list of useful git commands that can help you throught the activity: 
 
-```
-git clone [REPO-URL] # to clone a repository to your local folder
-git add [path/to/file] # to stage a file
-git commit -m "add the message" # to commit your staged files
-git push # to push (upload) your commits to the remote repository (github)
-git pull # to pull (download) remote repo to your local repo. It updates your local repository
-git status # to check the files you have changed, add or that are staged (ready to commit) 
+Basic commands: 
+- `git clone URL` to clone a remote repository to your local folder  
+- `git add FILE` to stage a file  
+- `git commit -m "add the message"` to commit your staged files  
+- `git push` to push (upload) your commits to the remote repository (github)  
+- `git pull` to pull (download) remote repo to your local repo. It updates your local repository
+- `git switch BRANCH` to switch to another branch. It ajusts your current working files. 
 
-git log # see history of commits and their messages, newest first
-git graph #see a detailed graph of commits. Create this command with 'git config --global alias.graph "log --all --graph --decorate --oneline"'
+Info commands: 
 
-```
+- `git status` to check the files you have changed, add or that are staged (ready to commit) 
+- `git log` to see history of commits and their messages, newest first
+- `git graph` to see a detailed graph of commits. Create this command with `git config --global alias.graph "log --all --graph --decorate --oneline"`
 
-Here you can find a [cheatsheet for git](https://aaltoscicomp.github.io/cheatsheets/git-the-way-you-need-it-cheatsheet.pdf). 
+> Here you can find a [cheatsheet for git](https://aaltoscicomp.github.io/cheatsheets/git-the-way-you-need-it-cheatsheet.pdf). 
 
 ## Markdown
 
 Files with .md use markdown to format the text. With markdown you add style to your text file easily. 
+You can create headers, put emphasis on text with *italics* or **bold**. You can create lists, share links, code chuncks and even add images to your rendered files. 
 
-You can create headers, put emphasis on text with *italics* or **bold**. 
-You can create list:
-- item 1
-- item 2
-- item 3
-
-You can share links, code chuncks and even add images to your rendered files. 
-Here you can find a [cheatsheet for Markdown](https://www.markdownguide.org/cheat-sheet/)
+> Here you can find a [cheatsheet for Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 For example with the folloing code is displaying here the image from the lab webpage.
  `![](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/hero_image/public/migrated-research-group/paragraph-images/cinxia_wing.png.webp?itok=-70oP6Fj)` 
