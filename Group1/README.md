@@ -1,7 +1,9 @@
-# add title
+# Cinxia lab
 
 
-## section 1
+## People
+
+Ulla & Lola
 
 
-## section 2
+## Projects
