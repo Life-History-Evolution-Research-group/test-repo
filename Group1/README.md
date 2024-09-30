@@ -1,7 +1,12 @@
-# add title
+# Cinxia lab
 
 
-## section 1
+## People
+
+Ulla & Lola
+Audrey who is messing with you :)
+
+![Alt text](https://www.encirclephotos.com/wp-content/uploads/Finland-Helsinki-University-Main-Building-1440x961.jpg)
 
 
-## section 2
+## Projects
