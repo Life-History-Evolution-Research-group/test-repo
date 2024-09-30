@@ -35,10 +35,10 @@ You can create headers, put emphasis on text with *italics* or **bold**. You can
 
 > Here you find a [cheatsheet for Markdown](https://www.markdownguide.org/cheat-sheet/).
 
-For example with the folloing code is displaying here the image from the lab webpage.
+For example with the following code is displaying here the image from the lab webpage.
  `![](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/hero_image/public/migrated-research-group/paragraph-images/cinxia_wing.png.webp?itok=-70oP6Fj)` 
 
-`![](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/hero_image/public/migrated-research-group/paragraph-images/cinxia_wing.png.webp?itok=-70oP6Fj)
+![](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/hero_image/public/migrated-research-group/paragraph-images/cinxia_wing.png.webp?itok=-70oP6Fj)
 
 
 
